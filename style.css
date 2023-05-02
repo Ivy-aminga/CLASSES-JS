@@ -1,0 +1,150 @@
+.home{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+  }
+  nav{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 40px 10px 10px
+      
+  }
+  nav ul li{
+      list-style-type: none;
+      display: inline-block;
+      padding: 10px 20px ;
+      margin-left: 90px;
+      
+  
+  }
+  nav ul li a{
+      font-weight: bold;
+      text-decoration: none;
+      color: black;
+  }
+  #pic{
+  
+  }
+  #c{
+    
+    font-weight: bolder;
+    font-size: 28px;
+    
+  }
+  .that{
+      margin-top: -44%;
+      margin-left: 9%;
+      color: white;
+  }
+  .m{
+  margin-top: -15%;
+  color: crimson;
+  }
+  .mi{
+      margin-left: 28%;
+      color: crimson;
+      margin-top: -15%;
+      
+  }
+  .mih{
+      margin-left: 65%;
+      color: crimson;
+      margin-top: -10%;
+  }
+  #dis{
+      background-color: navy;
+      width: 59px;
+  }
+  #at{
+      font-size: 25px;
+  }
+  #bac{
+      
+      width: 8%;
+      padding: 10px;
+  }
+  .we{
+      margin-top: 10%;
+  }
+  #pams{
+  margin-top: -12%;
+  margin-left: 10%;
+  }
+  #map{
+      margin-left: 65%;
+      margin-top: -60%;
+  }
+  #gal{
+      height: 400px;
+  }
+  #a{
+      margin-left: 3%;
+  }
+  .ommy{
+  margin-left: 45%;
+  margin-top: 35%;
+  }
+  #y{
+      margin-left: 13%;
+      margin-top: -4%;
+  }
+  .lush{
+      margin-left: 4%;
+  }
+  .maxi{
+      margin-left: 24%;
+      margin-top: -5%;
+  }
+  .rap{
+      margin-left: 48%;
+      margin-top: -5%;
+  }
+  .ss{
+      margin-left: 68%;
+      margin-top: -5%;
+  }
+  #ALL{
+      margin-left: 42%;
+      background-color: pink;
+      width: 13%;
+      padding: 10px;
+      font-weight: bolder;
+  }
+  .to{
+  margin-left: 40%;
+  }
+  #tu{
+      font-size: 28px;
+      margin-left: 38%;
+      margin-top: -1%;
+  }
+  #clear{
+      margin-left: 35%;
+      margin-top: -2%;
+      font-size: large;
+  
+  }
+  .footer{
+      margin-top: 8%;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, san
+  }
+  .ab{
+      margin-left: 5%;
+  }
+  
+  .lau{
+      margin-right: 10%;
+  }
+  #our{
+      padding: 10px 25px;
+  }
+  #on{
+      padding: 5px 25px;
+      background-color: pink;
+      color: white;
+  }
+
+  body{
+    grid-template: inherit;
+  }
